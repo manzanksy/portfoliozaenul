@@ -1,2 +1,2 @@
-# portfoliozaenul
+# portfolio
 Website portfolio pribadi saya
